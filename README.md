@@ -23,6 +23,9 @@ This is a MERN stack based Learning Management System developed as a team projec
 - Worked on frontend (React components)
 - Improved UI and form validation
 
+## 🌐 Live Demo
+https://lms-frontend-7j5c.onrender.com/
+
 ## 🔗 Original Repository
 https://github.com/ayush-gupta1925/LMS
 
